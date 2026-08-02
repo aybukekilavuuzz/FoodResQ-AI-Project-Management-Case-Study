@@ -232,7 +232,7 @@ This project supports:
 
 # 👩 Author
 
-**Aybüke**
+**Aybüke Kılavuz**
 
 Computer Engineering Student
 
